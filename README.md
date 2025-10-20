@@ -16,4 +16,13 @@
 **Each language covers a different subset of news categories in the  MasakhaNEWS dataset**  
 **This does mean that one language might have some imbalance or poor data quality which may harm performance**    
 **The aim is to experiment with hyperparameters and modelling decisions**   
-**To see if we can improve performance**   
+**To see if we can improve performance**  
+
+# Assignment 4/   
+**CSC2042S 2025 – Assignment 4:**  
+**A neural network to process and train using backpropagation**   
+**The aim is to experimentally discover how hyperparameters impact performance**   
+**The list of hyperparameters one can choose to vary  includes : learning rate ,optimizers, activation functions , number of neurons in the hidden layer one etc.**  
+
+
+
