@@ -23,6 +23,8 @@
 **A neural network to process and train using backpropagation**   
 **The aim is to experimentally discover how hyperparameters impact performance**   
 **The list of hyperparameters one can choose to vary  includes : learning rate ,optimizers, activation functions , number of neurons in the hidden layer one etc.**  
+**Dataset can be foud at: https://www.kaggle.com/datasets/zalando-research/fashionmnist**  
+
 
 
 
